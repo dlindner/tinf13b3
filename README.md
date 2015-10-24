@@ -17,3 +17,4 @@ TINF13B3 Advanced Software Engineering
 
 ## 19.10.2015
 * Folien: Top 25 Errors (2014 Version)
+* Zusatzinfo: http://arstechnica.com/tech-policy/2011/02/anonymous-speaks-the-inside-story-of-the-hbgary-hack/
