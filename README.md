@@ -12,3 +12,8 @@ TINF13B3 Advanced Software Engineering
 * Erklärt: Early und late binding
 * Folien: Object Calisthenics
 
+## 12.10.2015
+* Folien: Clean Code Developer
+
+## 19.10.2015
+* Folien: Top 25 Errors (2014 Version)
