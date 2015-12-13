@@ -36,3 +36,31 @@ TINF13B3 Advanced Software Engineering
 * Folien: Programming Principles (2015 Version)
 	* SOLID
 	* Einleitung zu GRASP
+
+## 16.11.2015
+* Folien: Programming Principles (2015 Version)
+    * GRASP bis Controller
+	
+## 23.11.2015
+* Folien: Programming Principles (2015 Version)
+    * GRASP ab Information Expert
+	* DRY
+	* KISS
+	* YAGNI
+	* Conway's Law
+* Folien: Refactoring (2010 Version)
+    * Einleitung bis direkt vor Exkurs Lokalität von Bugs
+	
+## 30.11.2015
+* Folien: Refactoring (2010 Version)
+    * ab Exkurs Lokalität von Bugs
+	* Code Smells
+	* bis inkl. vorletztes spezifische Refactoring
+
+## 30.11.2015
+* Folien: Refactoring (2010 Version)
+	* letztes spezifische Refactoring bis Ende
+* Folien: Continuous Integration
+    * vollständig
+
+# Ende 5. Semester
