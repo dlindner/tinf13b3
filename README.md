@@ -68,3 +68,39 @@ TINF13B3 Advanced Software Engineering
 # 6. Semester
 ## 25.02.2016
 * Folien: Unit Tests mit JUnit (2013 Version)
+
+## 03.03.2016
+* Folien: Unit Tests mit JUnit (2013 Version)
+
+## 10.03.2016
+* Folien: Entwurfsmuster Einführung
+* Folien: Entwurfsmuster Beobachter
+* Folien: Entwurfsmuster Dekorierer
+
+## 17.03.2016
+* Folien: Entwurfsmuster Dekorierer
+* Folien: Entwurfsmuster Event Bus
+* Folien: Entwurfsmuster Singleton
+
+# 24.03.2016
+keine Vorlesung
+
+# 30.03.2016
+* Folien: Software-Ergonomie (ISO 9241)
+* Folien: GUI Bloopers (bis Textmissgriffe)
+
+# 07.04.2016
+* Folien: GUI Bloopers (fertig)
+* Bonus: Webseiten werden immer größer
+** https://mobiforge.com/research-analysis/the-web-is-doom
+** http://idlewords.com/talks/website_obesity.htm
+** https://vimeo.com/147806338
+
+# 14.04.2016
+* Folien: Knowledge & Experience
+** Dreyfus Model of Skill Acquisition
+
+# 21.04.2016
+* Folien: Java Memory Model
+** nicht klausurrelevant
+
