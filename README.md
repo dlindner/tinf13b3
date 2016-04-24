@@ -92,15 +92,15 @@ keine Vorlesung
 # 07.04.2016
 * Folien: GUI Bloopers (fertig)
 * Bonus: Webseiten werden immer größer
-** https://mobiforge.com/research-analysis/the-web-is-doom
-** http://idlewords.com/talks/website_obesity.htm
-** https://vimeo.com/147806338
+	* https://mobiforge.com/research-analysis/the-web-is-doom
+	* http://idlewords.com/talks/website_obesity.htm
+	* https://vimeo.com/147806338
 
 # 14.04.2016
 * Folien: Knowledge & Experience
-** Dreyfus Model of Skill Acquisition
+	* Dreyfus Model of Skill Acquisition
 
 # 21.04.2016
 * Folien: Java Memory Model
-** nicht klausurrelevant
+	* nicht klausurrelevant
 
